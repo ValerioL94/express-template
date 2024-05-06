@@ -4,7 +4,7 @@ Template repository for express
 
 Dependencies:
 
-- express generator ( npx express generator --view=ejs, npm install, DEBUG=<yourAppName>:\* npm start)
+- express generator ( npx express generator --view=ejs, npm install, DEBUG=express-template:\* npm start)
 - express-async-handler
 - express-ejs-layouts
 - mongoose
@@ -12,6 +12,4 @@ Dependencies:
 Dev Dependencies:
 
 - nodemon
-- prettier
 - prettier-plugin-ejs
-- eslint
